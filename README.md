@@ -20,7 +20,7 @@ Controlli di qualità implementati da SCIA e altri organismi
 | --- | --- | --- |
 | Soglie fisse | Tx < 60 °C & Tx > -90 °C | Tx <= 50 °C & Tx >= -30 °C |
 | Soglie variabili | Tx >= Tn | **QUESTO CONTROLLO NON VIENE ESEGUITO** |
-| Soglie variabili | Tx >= Tm | |
+| Soglie variabili | Tx >= Tm | **QUESTO CONTROLLO NON VIENE ESEGUITO** |
 | Persistenza valori | **Non deve ripetersi lo stesso valore per >= 5 gg** | **Non deve ripetersi lo stesso valore per >= 10 gg** |
 
 | Tn | ECA&D | SCIA |
