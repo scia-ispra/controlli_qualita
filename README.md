@@ -16,18 +16,18 @@ Controlli di qualità implementati da SCIA e altri organismi
 | Persistenza valori > 5.0 mm | Non deve ripetersi lo stesso valore per >= 5 gg | |
 | Persistenza giorni asciutti | if the amount of drydays liesoutside a 14·bivariate standard deviation -> suspect | 180 o più valori nulli consecutivi |
 
-| Tx | ECA&D |
-| --- | --- |
+| Tx | ECA&D | SCIA |
+| --- | --- | --- |
 | Soglie fisse | Tx < 60 °C & Tx > -90 °C | Tx <= 50 °C & Tx >= -30 °C |
-| Soglie variabili | Tx >= Tn |
-| Soglie variabili | Tx >= Tm |
+| Soglie variabili | Tx >= Tn | **QUESTO CONTROLLO NON VIENE ESEGUITO** |
+| Soglie variabili | Tx >= Tm | |
 | Persistenza valori | **Non deve ripetersi lo stesso valore per >= 5 gg** | **Non deve ripetersi lo stesso valore per >= 10 gg** |
 
-| Tn | ECA&D |
-| --- | --- |
+| Tn | ECA&D | SCIA |
+| --- | --- | --- |
 | Soglie fisse | Tn < 60 °C & Tn > -90 °C | Tn <= 40 °C & Tn >= -40 °C |
-| Soglie variabili | Tn <= Tx |
-| Soglie variabili | Tn <= Tm |
+| Soglie variabili | Tn <= Tx | **QUESTO CONTROLLO NON VIENE ESEGUITO** |
+| Soglie variabili | Tn <= Tm | **QUESTO CONTROLLO NON VIENE ESEGUITO** |
 | Persistenza valori | **Non deve ripetersi lo stesso valore per >= 5 gg** | **Non deve ripetersi lo stesso valore per >= 10 gg** |
 
 
