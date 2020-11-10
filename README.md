@@ -31,6 +31,10 @@ Controlli di qualità implementati da SCIA e altri organismi
 | Persistenza valori | **Non deve ripetersi lo stesso valore per >= 5 gg** | **Non deve ripetersi lo stesso valore per >= 10 gg** |
 
 
+## Note
+
+Il volume dell'ECA&D descrive una serie di controlli per parametri diversi da temperatura e precipitazione. **Quali possono essere implementati in SCIA?**
+
 ## Riferimenti
 
 - [ECA&D](https://www.ecad.eu/documents/atbd.pdf)
